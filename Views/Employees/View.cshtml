@@ -1,0 +1,116 @@
+﻿@model EmployeeDto
+
+@{
+    Layout = null;
+}
+
+<style>
+    body {
+        background-color: #808080; /* Grey color for the page background */
+        font-family: 'Arial', sans-serif;
+        color: #000; /* Black text for better contrast */
+        margin: 0;
+        padding: 0;
+    }
+
+    .employee-details-container {
+        background: #ffffff; /* White background for the container */
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+        max-width: 500px;
+        margin: 50px auto;
+        color: #000; /* Black text for readability */
+    }
+
+    h2 {
+        font-size: 2.5rem;
+        font-weight: bold;
+        text-align: center;
+        color: #000; /* Black color for the heading */
+        margin-bottom: 20px;
+    }
+
+    .form-label {
+        font-weight: bold;
+        color: #000; /* Bold black text for labels */
+    }
+
+    .form-control-plaintext {
+        background: transparent;
+        border: none;
+        color: #000; /* Black text for input fields */
+        padding-left: 5px;
+        font-size: 1rem;
+    }
+
+    .form-row {
+        margin-bottom: 20px;
+    }
+
+    .btn {
+        display: block;
+        width: 100%;
+        padding: 12px;
+        border-radius: 8px;
+        border: none;
+        background-color: #000; /* Black button */
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bold;
+        transition: background-color 0.3s ease;
+        margin-top: 20px;
+    }
+
+        .btn:hover {
+            background-color: #333; /* Darker black on hover */
+        }
+
+    img {
+        display: block;
+        margin: 20px auto;
+        max-width: 180px;
+        border-radius: 50%;
+        border: 4px solid #000; /* Black border for the image */
+    }
+</style>
+
+<div class="employee-details-container">
+    <h2>Employee Details</h2>
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-row text-center">
+            <img src="/employees/@ViewData["ImageFileName"]" alt="Employee Image" />
+        </div>
+        <div class="form-row">
+            <label class="form-label">Employee ID</label>
+            <input class="form-control-plaintext" readonly value="@ViewData["EmployeeId"]" />
+        </div>
+        <div class="form-row">
+            <label class="form-label">First Name</label>
+            <input class="form-control-plaintext" readonly asp-for="Fname" />
+        </div>
+        <div class="form-row">
+            <label class="form-label">Last Name</label>
+            <input class="form-control-plaintext" readonly asp-for="Lname" />
+        </div>
+        <div class="form-row">
+            <label class="form-label">Email ID</label>
+            <input class="form-control-plaintext" readonly asp-for="EmailId" />
+        </div>
+        <div class="form-row">
+            <label class="form-label">Phone Number</label>
+            <input class="form-control-plaintext" readonly asp-for="PhoneNumber" />
+        </div>
+        <div class="form-row">
+            <label class="form-label">Address</label>
+            <input class="form-control-plaintext" readonly asp-for="Address" />
+        </div>
+        <div class="form-row">
+            <label class="form-label">Join Date</label>
+            <input class="form-control-plaintext" readonly asp-for="JoinDate" />
+        </div>
+
+        <a class="btn" asp-controller="Employees" asp-action="Index">Back to List</a>
+    </form>
+</div>
