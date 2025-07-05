@@ -1,0 +1,140 @@
+﻿@{
+    ViewData["Title"] = "About The Page";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        /* General Page Styling */
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 40px 0;
+        }
+
+        h1 {
+            text-align: center;
+            color: #003366; /* Dark blue color */
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            font-weight: bold; /* Bold */
+        }
+
+        .intro-text {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            margin-bottom: 40px;
+            text-align: center;
+        }
+
+        h3 {
+            text-align: center;
+            color: #003366; /* Dark blue color */
+            font-size: 1.8rem;
+            font-weight: bold; /* Bold */
+        }
+
+        .features-list {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+            .features-list li {
+                background-color: #fff;
+                padding: 15px;
+                border-radius: 8px;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                margin-bottom: 20px;
+                display: flex;
+                align-items: center;
+                width: 100%;
+                max-width: 600px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+                .features-list li i {
+                    font-size: 1.5rem;
+                    color: #003366; /* Dark blue color */
+                    margin-right: 15px;
+                }
+
+                .features-list li strong {
+                    font-size: 1.2rem;
+                    color: #003366; /* Dark blue color */
+                }
+
+                .features-list li p {
+                    font-size: 1rem;
+                    color: #555;
+                }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>@ViewData["Title"]</h1>
+
+        <p class="intro-text">
+            Welcome to the Employee Manager! This page provides an overview of the key features available in our Employee Management system. The Employee Manager is designed to help managers efficiently handle employee records, making it easy to manage various tasks related to employee data.
+        </p>
+
+        <h3>Features of the Employee Manager</h3>
+
+        <ul class="features-list">
+            <li>
+                <i class="bi bi-person-plus"></i>
+                <div>
+                    <strong>Create Employee</strong>
+                    <p>Managers can easily add new employees to the system by providing essential details like name, job title, contact information, and more.</p>
+                </div>
+            </li>
+            <li>
+                <i class="bi bi-person-x"></i>
+                <div>
+                    <strong>Delete Employee</strong>
+                    <p>Managers have the ability to remove employee records from the system when an employee is no longer part of the organization.</p>
+                </div>
+            </li>
+            <li>
+                <i class="bi bi-pencil-square"></i>
+                <div>
+                    <strong>Edit Employee Details</strong>
+                    <p>Employee information can be updated at any time to reflect changes such as job title, contact details, or department.</p>
+                </div>
+            </li>
+            <li>
+                <i class="bi bi-search"></i>
+                <div>
+                    <strong>Search for Employees</strong>
+                    <p>A powerful search functionality allows managers to quickly find employees based on various criteria, such as name, department, or position.</p>
+                </div>
+            </li>
+            <li>
+                <i class="bi bi-list-ul"></i>
+                <div>
+                    <strong>View Employee List</strong>
+                    <p>Managers can view a comprehensive list of all employees, making it easy to access and manage employee records from a single location.</p>
+                </div>
+            </li>
+        </ul>
+
+        <p class="intro-text">
+            With these features, the Employee Manager simplifies employee management tasks, making it easy for managers to stay organized and up-to-date with their employee data.
+        </p>
+    </div>
+
+</body>
+</html>

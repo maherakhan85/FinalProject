@@ -1,0 +1,637 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maher\\source\\repos\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\employees\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\employees\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\employees\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\employees\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\services\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:services\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\migrations\\20241208145329_migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:migrations\\20241208145329_migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|c:\\users\\maher\\source\\repos\\finalproject\\migrations\\appdb\\20241209050719_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD6398F-3FE0-4228-A907-11932F1667CF}|FinalProject.csproj|solutionrelative:migrations\\appdb\\20241209050719_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwEcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T18:32:28.658Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwJQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:22:59.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:36:41.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:35:17.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:25:19.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:38:44.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:47:55.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:42:48.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Models\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Models\\EmployeeDto.cs",
+              "RelativeToolTip": "Models\\EmployeeDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:19:14.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeToolTip": "Views\\Account\\ChangePassword.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T13:38:55.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwF8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T18:13:03.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T22:35:29.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T06:23:42.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T17:38:13.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T22:39:08.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T22:39:05.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:20:51.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:30:34.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Employees\\View.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\View.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Employees\\View.cshtml",
+              "RelativeToolTip": "Views\\Employees\\View.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwE8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T22:21:17.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T12:45:47.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T05:47:24.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:34:37.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "account.css",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\wwwroot\\css\\account.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\account.css",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\wwwroot\\css\\account.css",
+              "RelativeToolTip": "wwwroot\\css\\account.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T12:50:31.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Employees\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\List.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Employees\\List.cshtml",
+              "RelativeToolTip": "Views\\Employees\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T20:36:49.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T05:57:49.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAqwH8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T21:13:35.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Services\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\StoreDbContext.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Services\\StoreDbContext.cs",
+              "RelativeToolTip": "Services\\StoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:28:19.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:38:43.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T13:24:05.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VerifyEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\VerifyEmail.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeToolTip": "Views\\Account\\VerifyEmail.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T13:30:27.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VerifyEmailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\ViewModels\\VerifyEmailViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\VerifyEmailViewModel.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\ViewModels\\VerifyEmailViewModel.cs",
+              "RelativeToolTip": "ViewModels\\VerifyEmailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:33:54.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FinalProject.csproj",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\FinalProject.csproj",
+              "RelativeDocumentMoniker": "FinalProject.csproj",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\FinalProject.csproj",
+              "RelativeToolTip": "FinalProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T15:27:07.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241209050719_MigrationName.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Migrations\\AppDb\\20241209050719_MigrationName.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDb\\20241209050719_MigrationName.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Migrations\\AppDb\\20241209050719_MigrationName.cs",
+              "RelativeToolTip": "Migrations\\AppDb\\20241209050719_MigrationName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:07:20.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T15:11:32.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:47:54.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241208145329_Migrations.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\FinalProject\\Migrations\\20241208145329_Migrations.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241208145329_Migrations.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\FinalProject\\Migrations\\20241208145329_Migrations.cs",
+              "RelativeToolTip": "Migrations\\20241208145329_Migrations.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:53:29.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

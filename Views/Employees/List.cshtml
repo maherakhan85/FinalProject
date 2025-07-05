@@ -1,0 +1,89 @@
+﻿@using Microsoft.AspNetCore.Http;
+@model List<Employee>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Optional: Reference your main layout
+}
+
+<div class="container mt-5">
+    <!-- Page Heading -->
+    <h1 class="text-center mb-4" style="color: black; font-size: 3rem; font-weight: bold;">Employee List</h1>
+
+
+    <!-- Action Buttons Section -->
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <form class="d-flex" asp-controller="Employees" asp-action="List" method="get">
+                <!-- Thinner Search Input -->
+                <input class="form-control me-2 search-input" type="search" placeholder="Search by name or email..." aria-label="Search" name="searchTerm" value="@Context.Request.Query["searchTerm"]">
+                <button class="btn btn-outline-primary" type="submit">
+                    <i class="bi bi-search"></i> Search
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Employee Table -->
+    <div class="table-responsive shadow-lg">
+        <table class="table table-hover table-striped align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">Phone</th>
+                    <th scope="col" style="text-align: center;">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var employee in Model)
+                {
+                    <tr>
+                        <td>@employee.Id</td>
+                        <td>@employee.Fname @employee.Lname</td>
+                        <td>@employee.EmailId</td>
+                        <td>@employee.PhoneNumber</td>
+                        <td class="text-center">
+                            <a class="btn btn-info btn-sm me-1" asp-controller="Employees" asp-action="View" asp-route-id="@employee.Id" title="View Employee">
+                                <i class="bi bi-eye"></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<style>
+    /* Overall Page Styling */
+    body {
+        background-color: #f5f5f5; /* Light grey background */
+        font-family: 'Arial', sans-serif;
+    }
+
+    /* Thinner Search Input */
+    .search-input {
+        width: 250px; /* Adjust width to make it thinner */
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    /* Table Styling */
+    .table {
+        background-color: white;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Table Header Styling */
+    .table-dark {
+        background-color: #003366; /* Dark blue header */
+        color: white;
+    }
+
+    /* Button Hover Effect */
+    .btn:hover {
+        opacity: 0.8;
+    }
+</style>

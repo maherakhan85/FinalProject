@@ -1,0 +1,111 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Optional: Reference your main layout
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        /* General Page Styling */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f7;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+
+
+        /* Main Content Styling */
+        .main-content {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-top: 80px; /* Space for the fixed header */
+            padding-bottom: 40px; /* Space for the footer */
+        }
+
+        /* Container for Card */
+        .container {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+        }
+
+
+      
+
+        /* Button Styling */
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 15px;
+            margin-bottom: 15px;
+            text-align: center;
+            text-decoration: none;
+            font-size: 1.1rem;
+            border-radius: 5px;
+            color: white;
+            font-weight: bold;
+        }
+
+        .btn-info {
+            background-color: #17a2b8;
+        }
+
+        .btn-success {
+            background-color: #28a745;
+        }
+
+        .btn-warning {
+            background-color: #ffc107;
+        }
+
+        /* Hover Effects for Buttons */
+        .btn:hover {
+            opacity: 0.9;
+        }
+
+        /* Footer Styling */
+       
+    </style>
+</head>
+<body>
+
+
+
+    <!-- Main Content -->
+    
+        <div class="container">
+            <h2>Employee Management Tool</h2>
+
+            <!-- Vertical Button Section -->
+            <a class="btn btn-warning" asp-controller="Employees" asp-action="Create">
+                <i class="bi bi-plus-circle"></i> New Employee
+            </a>
+
+            <a class="btn btn-info" asp-controller="Employees" asp-action="Index">
+                <i class="bi bi-list-ul"></i> Update Employee
+            </a>
+            <a class="btn btn-success" asp-controller="Employees" asp-action="List">
+                <i class="bi bi-list-ul"></i> Employee List
+            </a>
+            
+        </div>
+    
+
+    <!-- Footer -->
+   
+
+</body>
+</html>
